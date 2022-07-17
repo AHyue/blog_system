@@ -1,2 +1,1 @@
 # blog_system
-java采用SpringBoot的简单个人博客系统
